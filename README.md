@@ -2,7 +2,7 @@
 I'm a computer science graduate from Concordia University, passionate about learning, creativity, and excited to further improve my skills in data analysis and web development.
 
 
-##  Socials:
+##  Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-norori) 
 
 ##  Tech Stack:
